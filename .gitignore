@@ -1,0 +1,7 @@
+.env
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+Week6-Student-executed.ipynb
